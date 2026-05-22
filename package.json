@@ -1,6 +1,6 @@
 {
     "name": "jupyterlab_epub",
-    "version": "0.1.0",
+    "version": "0.1.4",
     "description": "A JupyterLab extension for native EPUB file tb extension viewer. ",
     "keywords": [
         "jupyter",
