@@ -1,0 +1,16 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v4.5.2
+_src_path: https://github.com/jupyterlab/extension-template
+author_email: huwenhuo@gmail.com
+author_name: Wenhuo Hu
+has_ai_rules: false
+has_binder: false
+has_settings: false
+kind: frontend
+labextension_name: jupyterlab_epub
+project_short_description: 'A JupyterLab extension for native EPUB file tb extension
+    viewer. '
+python_name: jupyterlab_epub
+repository: https://github.com/huwenhuo/jupyterlab_epub
+test: true
+
